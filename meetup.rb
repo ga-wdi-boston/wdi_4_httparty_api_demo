@@ -1,7 +1,7 @@
-require 'HTTParty'
+require 'HTTParty' # or add 'HTTParty' to your Gemfile in Rails
 
 # get my api key
-ANNAS_MEETUP_API_KEY = "get_yer_own_key"
+ANNAS_MEETUP_API_KEY = "get_yer_own_key_already"
 
 # let's say I want to return a list of all the members in a given meetup group
 
