@@ -1,2 +1,3 @@
-wdi_4_httparty_api_demo
-=======================
+# HTTParty API demo using Meetup.com
+
+See annotated file `meetup.rb`
